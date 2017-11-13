@@ -1,9 +1,10 @@
+package hw3;
 import java.util.ArrayList;
 import java.util.HashMap;
 //import java.util.Scanner;
 
 /**
- * @author TODO: please add student ID and name here
+ * @author TODO: B0544237 ¶¾§Ó¥­
  * Try to write some comments for your codes (methods, 10 points)
  */
 public class HW3 {
